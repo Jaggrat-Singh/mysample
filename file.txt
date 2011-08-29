@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SOME changes fromt he jagrat branch
+=======
+some changes from the jagrat ]]]] branch 
+>>>>>>> jagrat]
