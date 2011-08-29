@@ -1,1 +1,2 @@
-1 2 3 4 5 
+ I AM FRM THE JAGRAT]]]] newfile.txt
+echo  I AM FRM THE JAGRAT]]]]
