@@ -1,6 +1,6 @@
 package com.diaspark;
 
-public @interface saveActivityPreferences {
+public interface saveActivityPreferences {
 	
 	
 	// yes i have done some changes 
