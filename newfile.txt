@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I AM FROM THE MASTER BRANCH
+=======
+ I AM FRM THE JAGRAT]]]] newfile.txt
+echo  I AM FRM THE JAGRAT]]]]
+>>>>>>> jagrat]
