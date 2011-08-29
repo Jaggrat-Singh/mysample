@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-i am in the JAGRAT ZONE
-=======
-+ more mroer morer moe rmoerme
->>>>>>> jagrat]
+SOME changes fromt he jagrat branch
