@@ -14,9 +14,13 @@ public interface saveActivityPreferences {
 	
 	// THESE CHANGES SHOULD GO IN THE JAGRAT BARNCH]]]] 
 	// some more changes frm the editor .....lets c the jagrat]]
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 >>>>>>> ade5224e3184906860d55a7db17cdda701549960
 =======
 >>>>>>> jagrat]
+=======
+	// lets ccccccc
+>>>>>>> 1fe4429ba8c6fd515f140d4322a0301b9f6b5298
 }
