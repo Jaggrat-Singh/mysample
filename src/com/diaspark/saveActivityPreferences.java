@@ -7,10 +7,16 @@ public interface saveActivityPreferences {
 	// some more chnages  frm the eclipse editor .....
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> jagrat]
 	
 	// THESE CHANGES SHOULD GO IN THE JAGRAT BARNCH]]]] 
 	// some more changes frm the editor .....lets c the jagrat]]
 
+<<<<<<< HEAD
 >>>>>>> ade5224e3184906860d55a7db17cdda701549960
+=======
+>>>>>>> jagrat]
 }
