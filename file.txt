@@ -1,5 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 1ade894b7a2aa039ead7b0f39a1e4ff7ac7de7e6
 i am in the JAGRAT ZONE
 =======
 + more mroer morer moe rmoerme
 >>>>>>> jagrat]
+<<<<<<< HEAD
+=======
+=======
++ more mroer morer moe rmoerme
+>>>>>>> parent of 1186000... frm the jagart]]
+>>>>>>> 1ade894b7a2aa039ead7b0f39a1e4ff7ac7de7e6
