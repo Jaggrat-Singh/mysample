@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text text text jagrat jagrat 
+=======
+i am frm the testing bracnh
+>>>>>>> testing
