@@ -26,6 +26,7 @@ public class test extends Activity {
 		        intent.setAction(WallpaperManager.ACTION_LIVE_WALLPAPER_CHOOSER);
 		        startActivity(intent);
 //Ila changes// check this out
+//jagrat chages
 				
 			}
 		});
