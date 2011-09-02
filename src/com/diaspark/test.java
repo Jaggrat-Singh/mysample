@@ -25,7 +25,7 @@ public class test extends Activity {
 		        Intent intent = new Intent();
 		        intent.setAction(WallpaperManager.ACTION_LIVE_WALLPAPER_CHOOSER);
 		        startActivity(intent);
-
+//Ila changes// check this out
 				
 			}
 		});
